@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Al-Quran</string>
+    <string name="a.pr">PENGATURAN</string>
+    <string name="a.js">JADWAL SHOLAT</string>
+    <string name="a.pn">PENCARIAN</string>
+    <string name="a.bc">BACA QUR\'AN</string>
+    <string name="a.tb">TERAKHIR BACA</string>
+    <string name="y">TODO</string>
+</resources>
